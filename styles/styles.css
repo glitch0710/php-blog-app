@@ -1,0 +1,38 @@
+.main-content {
+  padding-top: 50px;
+}
+
+.subtitle {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.subtitle-details {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgba(33, 33, 31, 0.745);
+  font-style: italic;
+}
+
+.post-content {
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.prof-pic {
+  width: 35px;
+  height: 35px;
+}
+
+.card-title {
+  margin-top: 10px;
+}
+
+.engagement-text {
+  color: royalblue;
+  font-weight: bold;
+}
+
+.comments-section {
+    margin-top: 20px;
+}
